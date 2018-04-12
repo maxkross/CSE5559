@@ -1,1 +1,0 @@
-Make sure to run a clean before committing
