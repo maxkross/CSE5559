@@ -1,2 +1,3 @@
-# CSE5559
-Code for the term project of CSE5559
+# To run the MATLAB script
+
+Run Tsne1/testPlot3.m
